@@ -11,7 +11,7 @@ newInput.type = 'text'
 newInput.name = 'removeBox'
 newInput.id = 'removeBox'
 newLink.href = 'https://www.youtube.com/'
-newImg.src = '/pic.jpg'
+newImg.src = 'pic.jpg'
 newImg.alt = 'snek'
 newButton.append("Remove Main")
 newButton3.append("Add Text")
